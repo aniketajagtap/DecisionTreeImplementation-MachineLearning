@@ -1,4 +1,4 @@
-# DecisionTreeImplementation-CodingNinjas
+# DecisionTreeImplementation_MachineLearning
 A decision tree project typically starts with a dataset containing input features and corresponding target labels or values. The goal of the project is to build a decision tree model that can make predictions or decisions based on the input features.
 
 For Iris dataset the task is to print steps for every split in the decision tree.
